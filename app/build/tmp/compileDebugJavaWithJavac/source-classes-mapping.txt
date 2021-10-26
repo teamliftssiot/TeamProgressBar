@@ -1,0 +1,2 @@
+com/santhosh/teamprogressbar/BuildConfig.java
+ com.santhosh.teamprogressbar.BuildConfig
